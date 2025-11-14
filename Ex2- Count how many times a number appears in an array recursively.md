@@ -31,7 +31,6 @@ import java.util.Scanner;
 public class CountOccurrences {
 
     public static int countOccurrences(int[] arr, int n, int target) {
-        //write your code here
         if (n == 0) {
             return 0;
         }
